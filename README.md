@@ -6,12 +6,21 @@
 OVERVIEW : -
 
 1.Popularity: Practo is widely used across India and globally, with millions of users and thousands of registered doctors. It is trusted for appointments, teleconsultations, lab test bookings, and health records.
-2.Impact: Practo has transformed healthcare access by enabling online appointments, telemedicine and providing digital health records (EHR) 3.It reduces waiting times, increases doctor reach, and improves patient engagement.
+
+2.Impact: Practo has transformed healthcare access by enabling online appointments, telemedicine and providing digital health records (EHR).
+
+3.It reduces waiting times, increases doctor reach, and improves patient engagement.
+
 4.Practo is a digital healthcare platform that helps people connect with doctors easily.
+
 5.It allows users to book doctor appointments online without the hassle of waiting in long queues.
-5. We can also consult doctors through video or chat, which is very helpful for quick medical advice.
-6.Practo stores medical records in one place, making it easier to track health history anytime.
-7.It also provides medicine delivery and lab test booking services from home.
+
+6. We can also consult doctors through video or chat, which is very helpful for quick medical advice.
+
+7..Practo stores medical records in one place, making it easier to track health history anytime.
+
+8.It also provides medicine delivery and lab test booking services from home.
+
 Overall, Practo simplifies healthcare by making it more accessible, convenient, and time-saving for users.
 
 
