@@ -50,6 +50,7 @@ Business metrics & hypothetical numbers
 14.Preventive care revenue: ₹0.94 Cr
 
 CONCLUSION 🧠
+
 🔹 Product Level:
 *Practo solves major healthcare problems:
 1.Accessibility
