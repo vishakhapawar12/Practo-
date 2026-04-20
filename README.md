@@ -3,6 +3,16 @@
 <img width="840" height="226" alt="image" src="https://github.com/user-attachments/assets/a6cc0104-c625-4c0c-b5da-4911617132e5" />
 
 
+OVERVIEW : -
+
+1.Popularity: Practo is widely used across India and globally, with millions of users and thousands of registered doctors. It is trusted for appointments, teleconsultations, lab test bookings, and health records.
+2.Impact: Practo has transformed healthcare access by enabling online appointments, telemedicine and providing digital health records (EHR) 3.It reduces waiting times, increases doctor reach, and improves patient engagement.
+4.Practo is a digital healthcare platform that helps people connect with doctors easily.
+5.It allows users to book doctor appointments online without the hassle of waiting in long queues.
+5. We can also consult doctors through video or chat, which is very helpful for quick medical advice.
+6.Practo stores medical records in one place, making it easier to track health history anytime.
+7.It also provides medicine delivery and lab test booking services from home.
+Overall, Practo simplifies healthcare by making it more accessible, convenient, and time-saving for users.
 
 
 
@@ -68,12 +78,16 @@ CONCLUSION 🧠
 2.Major drop at Month 2 → critical churn point
 3.Long-term retention stabilizes at ~7–8%
 
-* BUSINESS INSIGHT:
+BUSINESS INSIGHT:
+
+
 1.Revenue can grow via:
 2.Subscriptions
 4.Telemedicine
 5.Diagnostics
 6.Pharmacy
 7.Even partial success → can achieve 25% profit growth target
+
+
 
 
