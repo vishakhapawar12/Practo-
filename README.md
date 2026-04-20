@@ -56,6 +56,7 @@ CONCLUSION 🧠
 2.Record management
 3.Remote consultation
 4.Digital healthcare is highly scalable & impactful
+
 🔹 Data Insights:
 1.Strong initial engagement (~68%)
 2.Major drop at Month 2 → critical churn point
